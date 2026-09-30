@@ -14,9 +14,9 @@ I am a PhD student in the Department of Accountancy at City University of Hong K
 
 My research explores three interconnected areas:
 
-*   **Private Banking**: I examine the strategies, client relationships, and regulatory dynamics that define the private banking sector.
-*   **Financial Innovation in Banking**: I study how emerging technologies and new financial products are transforming traditional banking practices.
-*   **Disclosure**: I investigate the role of corporate disclosure and transparency in financial markets, particularly in the context of banking institutions.
+*   **Private Banking**
+*   **Financial Innovation in Banking**
+*   **Disclosure**
 
 Through my work, I aim to contribute to a deeper understanding of how financial institutions adapt to a rapidly evolving regulatory and technological environment.
 
@@ -39,9 +39,8 @@ Beyond my academic pursuits, I am deeply committed to community development and 
 
 ### Financial Empowerment
 
-*   **Microcredit and Business Training for Market Women** – Providing accessible credit and practical business training to help market women expand their trading activities and improve their livelihoods.
-
-*   **Financial Reporting Expertise for SMEs** – Offering guidance on financial reporting and bookkeeping to small and medium-sized enterprises, helping them improve transparency, access financing, and make informed business decisions.
+*   **Microcredit and Business Training for Market Women in Ghana**
+*   **Financial Reporting Expertise for SMEs in Ghana**
 
 You can read more about these projects on my [Community Work](/community/) page. 
 
