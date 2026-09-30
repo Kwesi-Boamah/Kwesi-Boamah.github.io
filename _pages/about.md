@@ -1,6 +1,7 @@
 ---
+Layout: single
 permalink: /
-title: "John Boamah"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
