@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the **Department of Accountancy** at **City University of Hong Kong**. My research sits at the intersection of banking, finance, and disclosure, with a particular focus on how financial innovation is reshaping the private banking landscape.
+I am a PhD student in the Department of Accountancy at City University of Hong Kong, where my research focuses on private banking, financial innovation in banking, and disclosure.
 
 ## Research Interests
 
