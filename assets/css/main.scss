@@ -67,11 +67,10 @@ body,
 
 .author__urls li {
   margin-bottom: 0.3em;
-}
-/* ===== Profile picture frame ===== */
+/* ===== Profile picture frame — square ===== */
 
 .author__avatar img {
-  border-radius: 8px;
+  border-radius: 0;
   border: 3px solid #d4d4d4;
   max-width: 180px;
   width: 100%;
