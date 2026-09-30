@@ -37,3 +37,34 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ===== Custom spacing adjustments ===== */
+
+body,
+.page__content p,
+.page__content li,
+.page__content td {
+  line-height: 1.4;
+}
+
+.page__content p {
+  margin-bottom: 0.7em;
+}
+
+.page__content li {
+  margin-bottom: 0.25em;
+}
+
+.page__content h2,
+.page__content h3 {
+  margin-top: 1.2em;
+  margin-bottom: 0.4em;
+}
+
+.author__bio {
+  line-height: 1.35;
+}
+
+.author__urls li {
+  margin-bottom: 0.3em;
+}
