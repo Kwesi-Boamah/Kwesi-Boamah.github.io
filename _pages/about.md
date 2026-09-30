@@ -29,13 +29,11 @@ Through my work, I aim to contribute to a deeper understanding of how financial 
 
 ## Community Work
 
-Beyond my academic pursuits, I am deeply committed to community development and social empowerment. I actively support initiatives that promote sustainable agriculture and financial independence for local communities.
-
 ### Agricultural Development
 
-*   **Fish Farming** – Supporting sustainable aquaculture to provide protein and income for local families.
-*   **Pig Farming** – Helping smallholder farmers raise pigs for meat production and financial stability.
-*   **Gari Processing** – Assisting in cassava processing to create jobs and reduce post-harvest losses.
+*   **Fish Farming** 
+*   **Pig Farming**
+*   **Gari Processing**
 
 ### Financial Empowerment
 
