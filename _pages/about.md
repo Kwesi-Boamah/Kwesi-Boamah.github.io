@@ -12,7 +12,7 @@ I am a PhD student in the Department of Accountancy at City University of Hong K
 
 ## Research Interests
 
-My doctoral research explores three interconnected areas:
+My research explores three interconnected areas:
 
 *   **Private Banking**: I examine the strategies, client relationships, and regulatory dynamics that define the private banking sector.
 *   **Financial Innovation in Banking**: I study how emerging technologies and new financial products are transforming traditional banking practices.
