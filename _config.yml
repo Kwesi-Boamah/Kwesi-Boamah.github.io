@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "John Boamah"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student (Accountancy)"
+  location         : "Hong Kong"
+  employer         : "City University of Hong Kong"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jboamah3-c@my.cityu.edu.hk" 
 
   # Academic websites
   academia         : # URL
