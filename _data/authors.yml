@@ -1,13 +1,15 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
+  name        : "John Boamah"
+  uri         : "https://jboamah.com"
+  email       : "johnboamahk@gmail.com"
+  bio         : "I am a PhD student in the Department of Accountancy at City University of Hong Kong, where my research focuses on private banking, financial innovation in banking, and disclosure."
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
   google_plus : "Name"
+  google_scholar : "https://scholar.google.com/citations?user=niKf5cAAAAAJ&hl=en"
+  orcid : "https://orcid.org/0000-0003-4586-9896"
 
 Name2 Name2:
   name        : "Name2 Name2"
