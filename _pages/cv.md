@@ -47,11 +47,11 @@ Private banking; financial innovation in banking; disclosure
 ## Awards and Scholarships
 
 **City University of Hong Kong**
-- Hong Kong PhD Fellowship, 2025–2028
-- HKSAR Government Scholarship Fund – Belt and Road Scholarship (Research Postgraduate), 2025–2028
+- Hong Kong PhD Fellowship, 2025
+- HKSAR Government Scholarship Fund – Belt and Road Scholarship (Research Postgraduate), 2025
 - HKPFS Academic Excellence and QE Award, 2026
 - Outstanding Academic Performance Award for Research Degree Students, 2026
-- Chow Yei Ching School of Graduate Studies Entrance Scholarship, 2025–2026
+- Chow Yei Ching School of Graduate Studies Entrance Scholarship, 2025
 
 **Earlier**
 - MAcc 2023/24 Outstanding Academic Performance Award and six course scholarships, Department of Accountancy, Hong Kong Baptist University

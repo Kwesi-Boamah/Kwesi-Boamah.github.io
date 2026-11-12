@@ -42,9 +42,9 @@ See the [Research](/publications/) page for details.
 
 ## Selected Awards
 
-- Hong Kong PhD Fellowship, Research Grants Council (2025–2028)
-- HKSAR Government Scholarship Fund – Belt and Road Scholarship (Research Postgraduate) (2025–2028)
-- Chow Yei Ching School of Graduate Studies Entrance Scholarship, CityUHK (2025–2026)
+- Hong Kong PhD Fellowship, Research Grants Council (2025)
+- HKSAR Government Scholarship Fund – Belt and Road Scholarship (Research Postgraduate) (2025)
+- Chow Yei Ching School of Graduate Studies Entrance Scholarship, CityUHK (2025)
 - MAcc Outstanding Academic Performance Award, Hong Kong Baptist University (2024)
 - Best Teaching Assistant, Xiamen University (2019)
 

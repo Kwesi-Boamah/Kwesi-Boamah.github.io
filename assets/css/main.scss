@@ -72,8 +72,10 @@ body,
 /* ===== Profile picture frame ===== */
 
 .author__avatar img {
-  border-radius: 8px;
-  border: 4px solid #333333;
+  border-radius: 6px;
+  border: 1px solid var(--global-dark-border-color);
+  padding: 3px;
+  background: var(--global-bg-color);
   max-width: 180px;
   width: 100%;
   height: auto;
@@ -119,3 +121,36 @@ body,
   padding-bottom: 0.3em;
   border-bottom: 1px solid var(--global-border-color);
 }
+
+/* ===== Typography and colour (light theme colours live in _sass/theme/_default_light.scss) ===== */
+
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.archive h2,
+.archive__item-title,
+.author__name,
+.masthead__menu-item--lg a {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  letter-spacing: -0.005em;
+}
+
+.page__title { font-weight: 700; }
+
+.page__content h2,
+.archive h2 { font-weight: 600; }
+
+.archive__item-title a { text-decoration: none; }
+.archive__item-title a:hover { text-decoration: underline; }
+
+.masthead {
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.page__footer {
+  border-top: 1px solid var(--global-border-color);
+}
+
+.page__footer a { color: var(--global-text-color-light); }
+.page__footer a:hover { color: var(--global-link-color); }

@@ -172,6 +172,7 @@ include:
   - _pages
   - files
 exclude:
+  - EDITING-GUIDE.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
