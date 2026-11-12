@@ -12,11 +12,11 @@ site_theme               : "default" # The available themes options are "default
 title                    : "John Boamah"
 title_separator          : "-"
 name                     : &name "John Boamah"
-description              : &description "Academic portfolio of John Boamah"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "John Boamah, PhD student in Accountancy at City University of Hong Kong. Research on banking, financial innovation, and disclosure."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jboamah.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Kwesi-Boamah/Kwesi-Boamah.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "PIC.jpeg"
   name             : "John Boamah"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student (Accountancy)"
+  bio              : "PhD Student in Accountancy<br>Banking · Financial Innovation · Disclosure"
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              : # URL
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=niKf5cAAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4586-9896"
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "john-boamah"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -88,8 +88,10 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  chapters:
+    title: 'Book Chapters'
+  workingpapers:
+    title: 'Working Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
@@ -125,7 +127,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -151,6 +153,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://scholar.google.com/citations?user=niKf5cAAAAAJ"
+    - "https://orcid.org/0000-0003-4586-9896"
+    - "https://www.linkedin.com/in/john-boamah"
+    - "https://scholars.cityu.edu.hk/en/persons/43936208-c402-449a-a2ff-6b2330e75286"
 
 
 # Analytics
