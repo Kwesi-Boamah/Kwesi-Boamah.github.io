@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "John Boamah"
 title_separator          : "-"
 name                     : &name "John Boamah"
-description              : &description "John Boamah, PhD student in Accountancy at City University of Hong Kong. Research on banking, financial innovation, and disclosure."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "John Boamah, PhD student (Accounting) at City University of Hong Kong. Research on banking, financial innovation, and disclosure."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jboamah.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "PIC.jpeg"
   name             : "John Boamah"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student in Accountancy<br>Banking · Financial Innovation · Disclosure"
+  bio              : "PhD Student (Accounting)<br>Banking · Financial Innovation · Disclosure"
   location         : "Hong Kong"
   employer         : "City University of Hong Kong"
   uri              : # URL

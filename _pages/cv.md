@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 
-- **PhD in Accountancy**, City University of Hong Kong, 2025–present
+- **PhD Student (Accounting)**, City University of Hong Kong, 2025–present
 - **Master of Accountancy**, Hong Kong Baptist University, Sept. 2023 – June 2024
 - **Master of Economics (Management Economics)**, Xiamen University, Sept. 2017 – June 2019
 - **Bachelor of Commerce**, University of Cape Coast, Ghana, Aug. 2012 – May 2016

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Department of Accountancy](https://www.cb.cityu.edu.hk/ac/) at City University of Hong Kong, supported by the **Hong Kong PhD Fellowship**. My research is in empirical accounting and finance, with a focus on banking. I am also a Chartered Accountant and Associate Member of the Institute of Chartered Accountants, Ghana (ICAG).
+I am a PhD student (Accounting) in the [Department of Accountancy](https://www.cb.cityu.edu.hk/ac/) at City University of Hong Kong, supported by the **Hong Kong PhD Fellowship**. My research is in empirical accounting and finance, with a focus on banking. I am also a Chartered Accountant and Associate Member of the Institute of Chartered Accountants, Ghana (ICAG).
 
 <p class="profile-actions">
   <a class="btn btn--primary" href="/files/John_Boamah_CV.pdf" target="_blank" rel="noopener"><i class="fas fa-file-pdf" aria-hidden="true"></i> Download CV</a>
@@ -35,7 +35,7 @@ See the [Research](/publications/) page for details.
 
 ## Education
 
-- **PhD in Accountancy** (in progress), City University of Hong Kong, 2025–present
+- **PhD Student (Accounting)**, City University of Hong Kong, 2025–present
 - **Master of Accountancy**, Hong Kong Baptist University, 2024
 - **Master of Economics** (Management Economics), Xiamen University, 2019
 - **Bachelor of Commerce**, University of Cape Coast, 2016
